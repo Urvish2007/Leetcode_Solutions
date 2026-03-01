@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Urvish2007/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Urvish2007/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Urvish2007/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
